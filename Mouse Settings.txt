@@ -1,0 +1,6 @@
+
+Sensitivity "2.22"
+Mouse-DPI   "400"
+Mouse-HZ    "1000"
+Raw Input   "1"
+Windows     "6/11"
