@@ -1,1 +1,1 @@
--novid -nojoy -tickrate 128 -high -nod3d9ex1 -console -language english -noforcemaccel -noforcemparms -noforcemspd
+-novid -nojoy -tickrate 128 -high -console
