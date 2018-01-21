@@ -1,5 +1,5 @@
 
-Sensitivity "0.89"
+Sensitivity "2.5"
 Mouse-DPI   "800"
 Mouse-HZ    "1000"
 Raw Input   "1"
