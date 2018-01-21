@@ -2,8 +2,8 @@
 
 Brightness:     1.6
 Color Mode:     Computer Monitor
-Aspect Ratio:   Normal 16:9
-Resolution:     1280 x 960 (4:3) | Stretched
+Aspect Ratio:   Normal 16:10
+Resolution:     1280 x 800 (16:10) | Stretched
 Display Mode:   Fullscreen
 Laptop PS:      Disabled
 
