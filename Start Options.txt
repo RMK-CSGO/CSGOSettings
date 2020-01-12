@@ -1,1 +1,1 @@
- -no-browser -processheap -high -novid -nojoy -console -tickrate 128 +mat_queue_mode 2
+-no-browser -processheap -high -novid -nojoy -console -tickrate 128 -d3d9ex
