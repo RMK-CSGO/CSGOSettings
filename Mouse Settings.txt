@@ -1,6 +1,6 @@
 
-Sensitivity "1"
-Mouse-DPI   "800"
+Sensitivity "1.7"
+Mouse-DPI   "400"
 Mouse-HZ    "1000"
 Raw Input   "1"
 Windows     "6/11"
