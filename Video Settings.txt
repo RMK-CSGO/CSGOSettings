@@ -3,7 +3,7 @@
 Brightness:     1.6
 Color Mode:     Computer Monitor
 Aspect Ratio:   Normal 4:3
-Resolution:     1152 x 864 (4:3) | Stretched
+Resolution:     1280 x 960 (4:3) | Stretched
 Display Mode:   Fullscreen
 Laptop PS:      Disabled
 
@@ -15,8 +15,8 @@ Model / Texture Detail:   Low
 Effect Detail:            Low
 Shader Detail:            Low
 Multicore Rendering:      Enabled
-Multisampling:            None
-Texture Filtering:        Bilinear
+Multisampling:            8x MSAA
+Texture Filtering:        16x
 FXAA:                     Disabled
 V-SYNC:                   Disabled
 Motion Blur:              Disabled
