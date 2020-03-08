@@ -1,1 +1,1 @@
--no-browser -processheap -high -novid -nojoy -console -tickrate 128 -d3d9ex
+-no-browser -processheap -high -novid -nojoy -console -tickrate 128
